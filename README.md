@@ -1,4 +1,4 @@
-## A Machine Learning Web Application to classiffy news into distinct groups.
+## A Machine Learning Web Application to classify news into distinct groups.
 * Code witten in python
 * datasist was used for the EDA
 * model was trained using LogisticRegression
